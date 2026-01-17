@@ -2,6 +2,7 @@
 
 **A professional, AI-powered forensic evidence detection and classification system featuring a state-of-the-art UI and advanced computer vision capabilities.**
 
+
 ![Banner](https://img.shields.io/badge/AI-Forensics-blueviolet?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)
